@@ -1,4 +1,4 @@
-# lmpe-front_end
+# LMPE.com
 
 >version 2.0
 >this is the stage 1 (i'm working on it)=>Non completed application
